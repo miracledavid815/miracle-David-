@@ -1,0 +1,18 @@
+.box-sizing{
+
+}
+.container img{
+    width: 30%;
+    height: 20%;
+}
+
+.container{
+    margin-left: 7.3px
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.container .row{
+    display: grid;
+    grid-template: auto auto auto;
+}
